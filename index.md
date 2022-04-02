@@ -1,4 +1,3 @@
-
 ## Deatool说明文档
 
 ### 安装Deatool
@@ -22,7 +21,6 @@
     ```
  
 - 顺利的话将会出现Deatool图形交互界面
-![图片](https://gitee.com/semwangy/web/raw/master/%E4%BA%A4%E4%BA%92%E7%95%8C%E9%9D%A2.png)
 
 ### Deatool功能介绍
 
