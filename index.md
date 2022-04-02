@@ -38,7 +38,7 @@
 
 ### Deatool使用流程
 
-1. 点击'导入表格'，请注意表格的导入形式为：
+1. 点击'导入表格'([参考实例数据](https://github.com/DEATien/DEATien.github.io/blob/main/%E6%B5%8B%E8%AF%95%E6%95%B0%E6%8D%AE.xlsx?raw=true))，请注意表格的导入形式为：
 
     | DMU名称 | 投入 | 产出 |非期望产出|
     | :------: | :------: | :------: | :------: |
