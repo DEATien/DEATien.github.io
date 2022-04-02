@@ -1,7 +1,6 @@
 
-<font size=20>Deatool说明文档</font>
+## Deatool说明文档
 
-[toc]
 ### Deatool功能介绍
 
 很高兴您可以使用Deatool，接下来我将向您介绍这个Python库的功能：
