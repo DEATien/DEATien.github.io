@@ -20,7 +20,7 @@
     run()
     ```
 - 顺利的话将会出现图形交互界面
-    ![image](https://github.com/DEATien/DEATien.github.io/blob/main/fig/%E4%BA%A4%E4%BA%92%E7%95%8C%E9%9D%A2.png)
+    ![image](https://github.com/DEATien/DEATien.github.io/blob/main/fig/%E4%BA%A4%E4%BA%92%E7%95%8C%E9%9D%A2.png){:height="50%" width="50%"}
 
 ### Deatool功能介绍
 
