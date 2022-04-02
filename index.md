@@ -1,5 +1,6 @@
 
-<font size=5>Deatool说明文档</font>
+<font size=20>Deatool说明文档</font>
+
 [toc]
 ### Deatool功能介绍
 
