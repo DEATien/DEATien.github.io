@@ -1,9 +1,17 @@
 
 ## Deatool说明文档
 
+### 安装Deatool
+- 首先需要您电脑内装有Python，且版本号低于3.9
+- 在CMD命令行输入
+
+    '''
+    pip install deatool
+    '''
+
 ### Deatool功能介绍
 
-很高兴您可以使用Deatool，接下来我将向您介绍这个Python库的功能：
+恭喜您已经成功打开了Deatool，接下来我将向您介绍这个Python库的功能：
 
 - 计算CCR模型、BCC模型、SBM模型、DDF模型的效率值
 - 针对以上模型可以选取不同的规模报酬性，分别是：CRS（constant returns to scale），VRS（variable returns to scale）
@@ -16,8 +24,7 @@
 ### Deatool使用流程
 
 1. 点击'导入表格'，请注意表格的导入形式为：
-
-   | DMU名称 | 投入 | 产出 |非期望产出|
+| DMU名称 | 投入 | 产出 |非期望产出|
 | :------: | :------: | :------: | :------: |
 | DMU1 | xxx | xxx | xxx |
 | ... | ... | ... |... |
