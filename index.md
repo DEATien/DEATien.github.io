@@ -7,10 +7,15 @@
 
 - 计算CCR模型、BCC模型、SBM模型、DDF模型的效率值
 - 针对以上模型可以选取不同的规模报酬性，分别是：CRS（constant returns to scale），VRS（variable returns to scale）
-- 针对DDF模型可以选取不同的方向并设置非期望产出的处置性
+- 针对DDF模型可以选取不同的方向并设置对非期望产出的处置性
+- 针对SBM模型可以输出相应指标的改进量（投入冗余与产出不足）
 - 可以处理包含非期望产出的模型
 - 可以选取不同的主流处理器，目前支持：Gurobi，Cplex，Glpk，请根据您的求解器安装情况来选取求解器
+$$
 
+\sum_i^n  \lambda b=b_0  (1-\beta)
+
+$$
 ### Deatool使用流程
 
 1. 点击'导入表格'，请注意表格的导入形式为：
