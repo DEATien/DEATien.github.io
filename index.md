@@ -10,6 +10,7 @@
     ```
     **由于需要安装相关依赖库，可能需要一段时间，请您耐心等待安装完成**
 - 在python环境下输入：
+
     ```python
     import deatool
     deatool.run()
@@ -19,7 +20,7 @@
     from deatool import run
     run()
     ```
-    
+ 
 - 顺利的话将会出现Deatool图形交互界面
 
 ### Deatool功能介绍
