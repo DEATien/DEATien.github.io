@@ -19,7 +19,7 @@
     from deatool import run
     run()
     ```
-- 顺利的话将会出现交互界面
+- 顺利的话将会出现图形交互界面
 
 ### Deatool功能介绍
 
