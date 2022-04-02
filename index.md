@@ -30,6 +30,7 @@
 
 - 计算CCR模型、BCC模型、SBM模型、DDF模型的效率值
 - 针对以上模型可以选取不同的规模报酬性，分别是：CRS（constant returns to scale），VRS（variable returns to scale）
+- 选择CCR模型，会自动输出CCR、BCC模型下的效率值，并判断规模报酬情况
 - 针对DDF模型可以选取不同的方向并设置对非期望产出的处置性
 - 针对SBM模型可以输出相应指标的改进量（投入冗余与产出不足）
 - 可以处理包含非期望产出的模型
