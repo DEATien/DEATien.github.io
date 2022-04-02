@@ -20,8 +20,9 @@
     run()
     ```
  
-- 顺利的话将会出现Deatool图形交互界面
-![fig](https://cdn.jsdelivr.net/gh/DEATien/DEATien.github.io/fig/%E4%BA%A4%E4%BA%92%E7%95%8C%E9%9D%A2.png){:height="50%" width="50%"}
+- 顺利的话将会出现如下Deatool图形交互界面
+- 
+![fig](https://cdn.jsdelivr.net/gh/DEATien/DEATien.github.io/fig/%E4%BA%A4%E4%BA%92%E7%95%8C%E9%9D%A2.png){:height="78%" width="78%"}
 
 ### Deatool功能介绍
 
