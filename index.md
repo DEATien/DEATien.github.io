@@ -4,6 +4,7 @@
 ### 安装Deatool
 - 首先需要您电脑内装有Python，且版本号低于3.9
 - 在CMD命令行输入：
+
     ```cmd
     pip install deatool
     ```
