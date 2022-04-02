@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Deatool说明文档
 
-You can use the [editor on GitHub](https://github.com/DEATien/DEATien.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Deatool功能介绍
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+很高兴您可以使用Deatool，接下来我将向您介绍这个Python库的功能：
 
-### Markdown
+- 计算CCR模型、BCC模型、SBM模型、DDF模型的效率值
+- 针对以上模型可以选取不同的规模报酬性，分别是：CRS（constant returns to scale），VRS（variable returns to scale）
+- 针对DDF模型可以选取不同的方向并设置非期望产出的处置性
+- 可以处理包含非期望产出的模型
+- 可以选取不同的主流处理器，目前支持：Gurobi，Cplex，Glpk，请根据您的求解器安装情况来选取求解器
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Deatool使用流程
 
-```markdown
-Syntax highlighted code block
+1. 点击'导入表格'，请注意表格的导入形式为：
+| :DMU名称: | :投入: | :产出: |:非期望产出: |
+| ------ | ------ | ------ | ------ |
+| :DMU1: | :xxx: | :xxx: | :xxx: |
+| ... | ... | ... |... |
+| :DMUn: | :xxx: | :xxx: | :xxx: |
+导入表格后，会在右边栏出现表格内容
+2. 选择需要测算模型，默认**CCR模型**
+3. 选择规模报酬性，默认**CRS**
+4. 如果选择是DDF模型，请选择合适的方向；若选择的是CCR或DDF模型，'请选择方向'一栏**默认**即可
+5. 填写投入变量的个数，如果有2个投入，请填写阿拉伯数字'**2**'，**不要写多余的字**
+6. 填写产出变量的个数，同上
+7. 填写非期望产出变量的个数，同上，需注意无非期望产出的话，默认即可
+8. 选择合适的求解器，默认为**Gurobi**
+9. 点击'开始计算'，右边栏出现计算过程信息
+10. 最下面出现计算结果的表格，点击'**结果保存**'，结果将会储存在与你导入数据的**同一个文件夹**内
 
-# Header 1
-## Header 2
-### Header 3
+### Deatool注意事项
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DEATien/DEATien.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 如果数据表格导入有误，将会出现'**Error:数据读取有误，请检查数据**'的字样，那么请您重新检查数据格式
+- 数据正常导入后，点击'开始计算'后若出现'**出错，请检查步骤是否正确**'，那么请您检查是否按照上述步骤进行操作，可能的问题为变量个数填写错误或您的电脑内没有装您选取的求解器，请您重新选取求解器
+- 建议您使用**Gurobi**求解器，求解速度最快
+- 在导入数据后，您可以多次测算模型，并通过最下方查看计算的结果
+- 如果您需要保存数据，请务必按下'**结果保存**'键，否则不会对结果进行保存
+- 如果您在使用中出现了什么问题，请及时联系我的微信，也欢迎您对后续的功能进行建议
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Wechat：yomamalielie
