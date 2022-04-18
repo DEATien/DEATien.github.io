@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>wangy的DEA学习小站</title>
+        <link>https://deatien.github.io/</link>
+        <description>Wangy的Data envelopment analysis学习小站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wangy_prince@126.com (WANGYi)</managingEditor>
+            <webMaster>wangy_prince@126.com (WANGYi)</webMaster>
+            <atom:link href="https://deatien.github.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
