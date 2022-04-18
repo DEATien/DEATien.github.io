@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Deatool - 标签 - wangy的DEA学习小站</title>
+        <title>Deatool - 标签 - DEA学习小站</title>
         <link>https://deatien.github.io/tags/deatool/</link>
-        <description>Deatool - 标签 - wangy的DEA学习小站</description>
+        <description>Deatool - 标签 - DEA学习小站</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wangy_prince@126.com (WANGYi)</managingEditor>
             <webMaster>wangy_prince@126.com (WANGYi)</webMaster><lastBuildDate>Fri, 01 Apr 2022 12:13:24 &#43;0800</lastBuildDate><atom:link href="https://deatien.github.io/tags/deatool/" rel="self" type="application/rss+xml" /><item>
     <title>Deatool使用指南</title>
@@ -10,6 +10,8 @@
     <pubDate>Fri, 01 Apr 2022 12:13:24 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://deatien.github.io/first_post/</guid>
-    <description><![CDATA[Deatool说明文档，包含：安装Deatool；Deatool功能介绍；Deatool使用流程；Deatool注意事项。]]></description>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/deatool.png" referrerpolicy="no-referrer">
+            </div>Deatool说明文档，包含：安装Deatool；Deatool功能介绍；Deatool使用流程；Deatool注意事项。]]></description>
 </item></channel>
 </rss>
