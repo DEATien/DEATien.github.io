@@ -4,7 +4,7 @@
         <link>https://deatien.github.io/posts/</link>
         <description>所有文章 | DEA学习小站</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wangy_prince@126.com (WANGYi)</managingEditor>
-            <webMaster>wangy_prince@126.com (WANGYi)</webMaster><lastBuildDate>Fri, 01 Apr 2022 12:13:24 &#43;0800</lastBuildDate><atom:link href="https://deatien.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>wangy_prince@126.com (WANGYi)</webMaster><lastBuildDate>Tue, 19 Apr 2022 11:20:24 &#43;0800</lastBuildDate><atom:link href="https://deatien.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Deatool使用指南</title>
     <link>https://deatien.github.io/first_post/</link>
     <pubDate>Fri, 01 Apr 2022 12:13:24 &#43;0800</pubDate>
@@ -14,11 +14,25 @@
 </item><item>
     <title>Deatool模型介绍</title>
     <link>https://deatien.github.io/second_post/</link>
-    <pubDate>Fri, 01 Apr 2022 11:20:24 &#43;0800</pubDate>
+    <pubDate>Mon, 18 Apr 2022 11:20:24 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://deatien.github.io/second_post/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/deamodel.png" referrerpolicy="no-referrer">
             </div>Deatool模型说明文档。]]></description>
+</item><item>
+    <title>Dea模型指标、导向选取原则</title>
+    <link>https://deatien.github.io/third_post/</link>
+    <pubDate>Tue, 19 Apr 2022 11:20:24 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://deatien.github.io/third_post/</guid>
+    <description><![CDATA[指标、导向选取的一些小tips。]]></description>
+</item><item>
+    <title>Dea模型规模报酬的分析</title>
+    <link>https://deatien.github.io/forth_post/</link>
+    <pubDate>Tue, 19 Apr 2022 11:20:24 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://deatien.github.io/forth_post/</guid>
+    <description><![CDATA[读完本文，你将清楚地了解什么是规模报酬。]]></description>
 </item></channel>
 </rss>
