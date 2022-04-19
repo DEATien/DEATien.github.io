@@ -5,7 +5,7 @@
 ### CCR模型
 $$
 \begin{aligned}
-\min & \theta_0\\\\
+\min & \theta\\\\
 s.t. & \sum_{j=1}^{n} \lambda_{j} x_{i j} \leq \theta x_{i 0} \\\\
 & \sum_{j=1}^{n} \lambda_{j} y_{r j} \geq y_{r 0} \\\\
 & \lambda_j \geq 0 \\\\
@@ -16,7 +16,7 @@ $$
 ### BCC模型
 $$
 \begin{aligned}
-\min & \theta_0 \\\\
+\min & \theta \\\\
 s.t. & \sum_{j=1}^{n} \lambda_{j} x_{i j} \leq \theta x_{i 0} \\\\
 & \sum_{j=1}^{n} \lambda_{j} y_{r j} \geq y_{r 0} \\\\
 & \sum_{j=1}^{n} \lambda_{j} = 1 \\\\

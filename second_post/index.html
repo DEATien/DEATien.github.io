@@ -108,7 +108,14 @@
             <div class="post-meta-line"><span class="post-author"><a href="DEATien.github.io" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>WANGYi</a></span>&nbsp;<span class="post-category">收录于 <a href="/categories/tool/"><i class="far fa-folder fa-fw"></i>tool</a>&nbsp;<a href="/categories/model/"><i class="far fa-folder fa-fw"></i>model</a></span></div>
             <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2022-04-01">2022-04-01</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;约 542 字&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;预计阅读 2 分钟&nbsp;</div>
-        </div><div class="details toc" id="toc-static"  kept="true">
+        </div><div class="featured-image"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/images/deamodel.png"
+        data-srcset="/images/deamodel.png, /images/deamodel.png 1.5x, /images/deamodel.png 2x"
+        data-sizes="auto"
+        alt="/images/deamodel.png"
+        title="/images/deamodel.png" /></div><div class="details toc" id="toc-static"  kept="true">
                 <div class="details-summary toc-title">
                     <span>目录</span>
                     <span><i class="details-icon fas fa-angle-right"></i></span>
@@ -137,7 +144,7 @@
 <h3 id="ccr模型">CCR模型</h3>
 <p>$$
 \begin{aligned}
-\min &amp; \theta_0\\
+\min &amp; \theta\\
 s.t. &amp; \sum_{j=1}^{n} \lambda_{j} x_{i j} \leq \theta x_{i 0} \\
 &amp; \sum_{j=1}^{n} \lambda_{j} y_{r j} \geq y_{r 0} \\
 &amp; \lambda_j \geq 0 \\
@@ -147,7 +154,7 @@ $$</p>
 <h3 id="bcc模型">BCC模型</h3>
 <p>$$
 \begin{aligned}
-\min &amp; \theta_0 \\
+\min &amp; \theta \\
 s.t. &amp; \sum_{j=1}^{n} \lambda_{j} x_{i j} \leq \theta x_{i 0} \\
 &amp; \sum_{j=1}^{n} \lambda_{j} y_{r j} \geq y_{r 0} \\
 &amp; \sum_{j=1}^{n} \lambda_{j} = 1 \\
