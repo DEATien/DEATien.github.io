@@ -22,7 +22,7 @@
     ```
  
 - 顺利的话将会出现如下Deatool图形交互界面：
-<img src="\images\desplay.png" width = "700" height = "500" alt="图片无法加载" align=center />
+<img src="\images\desplay.png" width = "500" height = "300" alt="图片无法加载" align=center /></img>
 
 ### Deatool功能介绍
 恭喜您已经成功打开了Deatool，接下来将向您介绍这个Python库的功能：
@@ -56,7 +56,7 @@
 
 #### 简单操作演示
 :(fas fa-desktop): 以SBM模型为例，数据[同上](/测试数据.xlsx)，包含2个投入，3个期望产出，2个非期望产出：
-<iframe height=536 width=693 src="\演示.gif"></iframe>
+<iframe height="500" width="700" src="\演示.gif"></iframe>
   
 ### Deatool注意事项
 
