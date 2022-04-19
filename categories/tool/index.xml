@@ -10,8 +10,13 @@
     <pubDate>Fri, 01 Apr 2022 12:13:24 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://deatien.github.io/first_post/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/deatool.png" referrerpolicy="no-referrer">
-            </div>Deatool说明文档，包含：安装Deatool；Deatool功能介绍；Deatool使用流程；Deatool注意事项。]]></description>
+    <description><![CDATA[Deatool说明文档，包含：安装Deatool；Deatool功能介绍；Deatool使用流程；Deatool注意事项。]]></description>
+</item><item>
+    <title>Deatool模型介绍</title>
+    <link>https://deatien.github.io/second_post/</link>
+    <pubDate>Fri, 01 Apr 2022 11:20:24 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://deatien.github.io/second_post/</guid>
+    <description><![CDATA[Deatool模型说明文档。]]></description>
 </item></channel>
 </rss>

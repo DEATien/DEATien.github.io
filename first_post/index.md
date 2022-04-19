@@ -22,13 +22,10 @@
     ```
  
 - 顺利的话将会出现如下Deatool图形交互界面：
+<img src="\images\desplay.png" width = "700" height = "500" alt="图片无法加载" align=center />
 
-    ![fig](https://cdn.jsdelivr.net/gh/DEATien/DEATien.github.io/fig/%E4%BA%A4%E4%BA%92%E7%95%8C%E9%9D%A2.png)
-  
 ### Deatool功能介绍
-
 恭喜您已经成功打开了Deatool，接下来将向您介绍这个Python库的功能：
-
 - 计算CCR模型、BCC模型、SBM模型、DDF模型的效率值
 - 针对以上模型可以选取不同的规模报酬性，分别是：CRS（constant returns to scale），VRS（variable returns to scale）
 - 选择CCR模型，会自动输出CCR、BCC模型下的效率值，并判断规模报酬情况
@@ -36,12 +33,10 @@
 - 针对SBM模型可以输出相应指标的改进量（投入冗余与产出不足）
 - 可以处理包含非期望产出的模型
 - 可以选取不同的主流处理器，目前支持：Gurobi，Cplex，Glpk，请根据您的求解器安装情况来选取求解器
-  
-  
 
 ### Deatool使用流程
 
-1. 点击“导入表格”([参考实例数据](https://github.com/DEATien/DEATien.github.io/blob/0693898697ca4f55f0ba4d0c164f039c5cb0a654/%E6%B5%8B%E8%AF%95%E6%95%B0%E6%8D%AE.xlsx))，请注意表格的导入形式为：
+1. 点击“导入表格”([参考实例数据](/测试数据.xlsx))，请注意表格的导入形式为：
 
     | DMU名称 | 投入 | 产出 |非期望产出|
     | :------: | :------: | :------: | :------: |
@@ -55,10 +50,13 @@
 6. 填写投入变量的个数，如果有2个投入，请填写阿拉伯数字“**2**”，**不要写多余的字**
 7. 填写产出变量的个数，同上
 8. 填写非期望产出变量的个数，同上，需注意无非期望产出的话，默认即可
-9 选择合适的求解器，默认为**Gurobi**
+9. 选择合适的求解器，默认为**Gurobi**
 10. 点击“开始计算”，右边栏出现计算过程信息
 11. 最下面出现计算结果的表格，点击“**结果保存**”，结果将会储存在与你导入数据的**同一个文件夹**内
-  
+
+#### 简单操作演示
+:(fas fa-desktop): 以SBM模型为例，数据[同上](/测试数据.xlsx)，包含2个投入，3个期望产出，2个非期望产出：
+<iframe height=536 width=693 src="\演示.gif"></iframe>
   
 ### Deatool注意事项
 
@@ -70,5 +68,4 @@
 - 如果您在使用中出现了什么问题，请及时联系我的微信，也欢迎您对后续的功能进行建议
 
 ### Support or Contact
-Wechat：yomamalielie
-
+:(fas fa-comments): Wechat：:(fas fa-address-card): yomamalielie
