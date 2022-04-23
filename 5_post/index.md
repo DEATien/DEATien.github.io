@@ -32,7 +32,8 @@
     ```cmd
     pip install openpyxl
     ```
--  ⇈ `openpyxl`主要是一个用来读写 Excel 2010 xlsx/xlsm/xltx/xltm 的 Python 库
+-  ⇈ `openpyxl`主要是一个用来读写 `Excel 2010 xlsx/xlsm/xltx/xltm` 的 Python 库
+
 5.准备工作就绪了之后，就可以开始我们的建模之路了。在此之前，还是希望同学们先掌握一些Python基本语法再食用本文，包含但不限于Python的基本语句、基本数据结构、函数、类与方法等知识。
 
 ### 模型构建
