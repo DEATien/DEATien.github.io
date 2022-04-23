@@ -5,32 +5,32 @@
         <description>Paper - 标签 - DEA学习小站</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>wangy_prince@126.com (WANGYi)</managingEditor>
             <webMaster>wangy_prince@126.com (WANGYi)</webMaster><lastBuildDate>Sat, 23 Apr 2022 12:13:24 &#43;0800</lastBuildDate><atom:link href="https://deatien.github.io/tags/paper/" rel="self" type="application/rss+xml" /><item>
-    <title>手把手教你写利用Python写DEA模型</title>
-    <link>https://deatien.github.io/5_post/</link>
+    <title>手把手教你利用Python写DEA模型</title>
+    <link>https://deatien.github.io/dea_code/</link>
     <pubDate>Sat, 23 Apr 2022 12:13:24 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://deatien.github.io/5_post/</guid>
+    <guid>https://deatien.github.io/dea_code/</guid>
     <description><![CDATA[从零开始完成一个DEA模型的python代码]]></description>
 </item><item>
     <title>Dea模型指标、导向选取原则</title>
-    <link>https://deatien.github.io/third_post/</link>
+    <link>https://deatien.github.io/dea_indicator/</link>
     <pubDate>Tue, 19 Apr 2022 11:20:24 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://deatien.github.io/third_post/</guid>
+    <guid>https://deatien.github.io/dea_indicator/</guid>
     <description><![CDATA[指标、导向选取的一些小tips。]]></description>
 </item><item>
     <title>Dea模型规模报酬的分析</title>
-    <link>https://deatien.github.io/forth_post/</link>
+    <link>https://deatien.github.io/dea_scale/</link>
     <pubDate>Tue, 19 Apr 2022 11:20:24 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://deatien.github.io/forth_post/</guid>
+    <guid>https://deatien.github.io/dea_scale/</guid>
     <description><![CDATA[读完本文，你将清楚地了解什么是规模报酬。]]></description>
 </item><item>
     <title>Malmquist指数分析</title>
-    <link>https://deatien.github.io/6_post/</link>
+    <link>https://deatien.github.io/malmquist/</link>
     <pubDate>Sat, 23 Apr 2022 12:13:24 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://deatien.github.io/6_post/</guid>
+    <guid>https://deatien.github.io/malmquist/</guid>
     <description><![CDATA[Malmquist指数分解。]]></description>
 </item></channel>
 </rss>
