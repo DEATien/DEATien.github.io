@@ -1,4 +1,4 @@
-# 手把手教你写利用Python写DEA模型
+# 手把手教你利用Python写DEA模型
 
 :(far fa-bell): **本文带你从零开始完成一个DEA模型的python代码**
 <script src="https://kit.fontawesome.com/5519c56e9e.js" crossorigin="anonymous"></script>
@@ -66,7 +66,9 @@ Input = ['输入1','输入2']
 Output = ['输出1','输出2','输出3']
 Undesirable_Output =['非期望输出1','非期望输出2']
 K = list(range(data.shape[0]))
-# K为data的行数，即代表DMU的个数。`list(range(data.shape[0]))`将其转换为列表形式，如果有5个DMU，则`K = [1,2,3,4,5]`
+# K为data的行数，即代表DMU的个数。
+
+`list(range(data.shape[0]))`将其转换为列表形式，如果有5个DMU，则`K = [1,2,3,4,5]`
 ```
 3. 定义求解框架，总共有K个DMU，我们需要对这`K`个DMU进行循环求解，每次求解一个DMU，并记当前求解的DMU为`i`。在此之前，还需要定义一个TE空列表来储存将来的效率值。
 ```python

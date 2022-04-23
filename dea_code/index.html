@@ -29,7 +29,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/deatien.github.io\/dea_code\/"
-        },"genre": "posts","keywords": "Paper","wordcount":  2843 ,
+        },"genre": "posts","keywords": "Paper","wordcount":  2845 ,
         "url": "https:\/\/deatien.github.io\/dea_code\/","datePublished": "2022-04-23T12:13:24+08:00","dateModified": "2022-04-23T18:26:35+08:00","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
@@ -106,7 +106,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">手把手教你利用Python写DEA模型</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="DEATien.github.io" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>WANGYi</a></span>&nbsp;<span class="post-category">收录于 <a href="/categories/model/"><i class="far fa-folder fa-fw"></i>model</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2022-04-23">2022-04-23</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;约 2843 字&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2022-04-23">2022-04-23</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;约 2845 字&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;预计阅读 6 分钟&nbsp;<span id="/dea_code/" class="leancloud_visitors" data-flag-title="手把手教你利用Python写DEA模型">
                         <i class="far fa-eye fa-fw"></i>&nbsp;<span class=leancloud-visitors-count></span>&nbsp;次阅读
                     </span>&nbsp;</div>
@@ -239,13 +239,17 @@ $$</p>
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">Input</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;输入1&#39;</span><span class="p">,</span><span class="s1">&#39;输入2&#39;</span><span class="p">]</span>
 </span></span><span class="line"><span class="cl"><span class="n">Output</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;输出1&#39;</span><span class="p">,</span><span class="s1">&#39;输出2&#39;</span><span class="p">,</span><span class="s1">&#39;输出3&#39;</span><span class="p">]</span>
 </span></span><span class="line"><span class="cl"><span class="n">Undesirable_Output</span> <span class="o">=</span><span class="p">[</span><span class="s1">&#39;非期望输出1&#39;</span><span class="p">,</span><span class="s1">&#39;非期望输出2&#39;</span><span class="p">]</span>
 </span></span><span class="line"><span class="cl"><span class="n">K</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="nb">range</span><span class="p">(</span><span class="n">data</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">0</span><span class="p">]))</span>
-</span></span><span class="line"><span class="cl"><span class="c1"># K为data的行数，即代表DMU的个数。`list(range(data.shape[0]))`将其转换为列表形式，如果有5个DMU，则`K = [1,2,3,4,5]`</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># K为data的行数，即代表DMU的个数。</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="err">`</span><span class="nb">list</span><span class="p">(</span><span class="nb">range</span><span class="p">(</span><span class="n">data</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">0</span><span class="p">]))</span><span class="err">`</span><span class="n">将其转换为列表形式</span><span class="err">，</span><span class="n">如果有5个DMU</span><span class="err">，</span><span class="n">则</span><span class="err">`</span><span class="n">K</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">5</span><span class="p">]</span><span class="err">`</span>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><ol start="3">
