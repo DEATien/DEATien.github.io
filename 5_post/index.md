@@ -1,4 +1,4 @@
-# Malmquist指数分析容易混淆的概念
+# Malmquist指数分析
 
 :(far fa-bell): 本文带你走进Malmquist指数分解的相关术语
 
