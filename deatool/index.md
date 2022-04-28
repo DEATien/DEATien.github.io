@@ -1,6 +1,21 @@
 # Deatool使用指南
 
 
+<script src="https://kit.fontawesome.com/5519c56e9e.js" crossorigin="anonymous"></script>
+### 版本更新信息
+
+
+#### 相关信息介绍
+
+- <i class="fa-regular fa-bell"></i> 请点击此链接进入Pypi官网的deatool主页面：[deatool主页](https://pypi.org/project/deatool/) 
+- <i class="fa-regular fa-bell"></i> 请点击此链接进入deatool的下载量统计页面：[deatool下载量统计页面](https://pypistats.org/packages/deatool) 
+#### 最新版本更新内容
+<i class="fa-solid fa-champagne-glasses"></i> 版本更新时间：2022年4月29日  
+<i class="fa-solid fa-check"></i> 完善了Pypi官网的deatool包的相关信息，包括且不限于License、操作系统、Python需求版本、官方操作等信息。  
+<i class="fa-solid fa-check"></i> 优化了deatool的运行方式，摒弃了传统的通过导入Python包、运行模块才能显示界面的操作，可以直接在`cmd`命令行输入`deatool`来运行本软件，详情请见`运行Deatool`章节。  
+<i class="fa-solid fa-check"></i>  优化了相关代码信息。  
+<i class="fa-solid fa-check"></i> 更改了DDF在强可处置性假设下的模型错误。  
+
 ### 安装Deatool
 - 首先需要您电脑内装有Python，且版本号低于3.9
 - 在CMD命令行输入：
@@ -9,18 +24,20 @@
     pip install deatool
     ```
     **由于需要安装相关依赖库，可能需要一段时间，请您耐心等待安装完成**
-- 在python环境下输入：
 
-    ```python
-    import deatool
-    deatool.run()
+### 运行Deatool
+- 可以选用以下两种方式打开Deatool
+1. 在CMD命令行输入：
+
+    ```cmd
+    python -m deatool
     ```
-    或者：
-    ```python
-    from deatool import run
-    run()
+2. [**推荐**]直接在CMD命令行输入：
+    ```cmd
+    deatool
     ```
- 
+
+
 - 顺利的话将会出现如下Deatool图形交互界面：
 <img src="\images\desplay.png" width = "500" height = "300" alt="图片无法加载" align=center /></img>
 

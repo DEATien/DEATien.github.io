@@ -69,13 +69,13 @@ s.t. & \sum_{j=1}^{n} \lambda_{j} x_{i j} \leq(1-\beta) x_{i0}\\\\
 &\lambda \geq 0
 \end{aligned}
 $$
-#### $(-x,y,-b)$强可处置性$\leq$
+#### $(-x,y,b)$强可处置性$\leq$
 $$
 \begin{aligned}
 \max \beta \\\\
 s.t. & \sum_{j=1}^{n} \lambda_{j} x_{i j} \leq(1-\beta) x_{i0}\\\\
 & \sum_{j=1}^{n} \lambda_{j} y_{r j} \geq(1+\beta) x_{r0}\\\\
-& \sum_{j=1}^{n} \lambda_{j} u_{t j} \leq(1-\beta) u_{t0}\\\\
+& \sum_{j=1}^{n} \lambda_{j} u_{t j} \leq(1+\beta) u_{t0}\\\\
 &\lambda \geq 0
 \end{aligned}
 $$
