@@ -2,18 +2,19 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://deatien.github.io/deatool/</loc><lastmod>2022-04-19T01:26:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://deatien.github.io/deatool_new/</loc><lastmod>2022-04-30T01:26:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://deatien.github.io/deatool_old/</loc><lastmod>2022-04-19T01:26:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>https://deatien.github.io/dea_code/</loc><lastmod>2022-04-23T18:26:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://deatien.github.io/dea_model/</loc><lastmod>2022-04-19T12:20:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>https://deatien.github.io/dea_indicator/</loc><lastmod>2022-04-19T12:20:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>https://deatien.github.io/dea_scale/</loc><lastmod>2022-04-19T12:20:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>https://deatien.github.io/malmquist/</loc><lastmod>2022-04-23T18:26:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://deatien.github.io/categories/</loc><lastmod>2022-04-23T18:26:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://deatien.github.io/</loc><lastmod>2022-04-23T18:26:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://deatien.github.io/categories/</loc><lastmod>2022-04-30T01:26:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://deatien.github.io/tags/deatool/</loc><lastmod>2022-04-30T01:26:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://deatien.github.io/</loc><lastmod>2022-04-30T01:26:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://deatien.github.io/posts/</loc><lastmod>2022-04-30T01:26:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://deatien.github.io/tags/</loc><lastmod>2022-04-30T01:26:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://deatien.github.io/categories/tool/</loc><lastmod>2022-04-30T01:26:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://deatien.github.io/categories/model/</loc><lastmod>2022-04-23T18:26:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://deatien.github.io/tags/paper/</loc><lastmod>2022-04-23T18:26:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://deatien.github.io/posts/</loc><lastmod>2022-04-23T18:26:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://deatien.github.io/tags/</loc><lastmod>2022-04-23T18:26:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://deatien.github.io/tags/index/</loc><lastmod>2022-04-19T12:20:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>https://deatien.github.io/tags/deatool/</loc><lastmod>2022-04-19T12:20:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>https://deatien.github.io/categories/tool/</loc><lastmod>2022-04-19T12:20:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url></urlset>
+            <loc>https://deatien.github.io/tags/index/</loc><lastmod>2022-04-19T12:20:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url></urlset>
